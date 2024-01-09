@@ -40,5 +40,6 @@ Building Instructions:
 14. Place the spacer plate on top of the pcb.
 15. Place the main plate on top of the spacer plate and insert the switches into the main plate and pcb. Be careful to keep the swiches completely vertical when pressing them in as it is easy to bend the pins. 
 16. Optionally attach the wrist rest and stand and secure the keyboard shut with 9 screws.
-17. Install the keycaps and finish. 
+17. Install the keycaps. 
+18. Attach the keyboard into a computer and upload the code to the arduino. To do this, install Arduino IDE from the arduino website and plug the keyboard in. Open the library manager and make sure all the included libraries are installed. Then, select Arduino Leonardo in the boards menu and upload the code.
 
