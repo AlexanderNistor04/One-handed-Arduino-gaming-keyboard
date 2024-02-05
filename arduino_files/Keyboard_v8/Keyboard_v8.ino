@@ -1,3 +1,4 @@
+// Author: Alexander Nistor
 #include <Keyboard.h>
 #include <Mouse.h>
 #include <SPI.h>
