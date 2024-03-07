@@ -4,6 +4,7 @@ The thumbstick functions as a mouse by default, moving the stick moves the curso
 All of the circuit boards are custom and their Gerber files are included. The circuits don't have any components on them, but were designed to have the user hand solder each component. The keyboard uses smd neopixel leds, which are the most difficult component to hand solder. The keyboard is designed to fit 3 pin mechanical keyboard switches and is made for hotswap switch sockets.
 The previous iterations of the design are included as well, though many are not entirely complete and some files have been lost. 
 
+This link leads to a MakerWorld model with the stl files of the latest version: https://makerworld.com/en/models/233790
 This link leads to a thingiverse item with the stl files of the latest version of the 3d models: https://www.thingiverse.com/thing:6422238
 
 Parts:
